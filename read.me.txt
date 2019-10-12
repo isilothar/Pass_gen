@@ -1,0 +1,3 @@
+1. Upload all files too server.
+2. Import SQL file too DB.
+3. Open file named config.php and add your server information.
